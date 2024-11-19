@@ -31,7 +31,7 @@ The dataset consists of customer order records with the following columns:
 **Scenario:** Analyze customers who are adults (age 18 and above).
 - **Query:** Load the dataset and filter out customers with `age < 18`.
 
-![1](https://github.com/user-attachments/assets/da2588ef-7b73-4388-8b11-1e6e44a44243)
+![1](1.png)
 
 
 ### 2. Grouping by Customer and Calculating Total Sales
